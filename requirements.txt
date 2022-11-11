@@ -8,5 +8,6 @@ flask_wtf
 scikit_learn
 WTForms
 gunicorn
+email_validator
 pandas
 requests
