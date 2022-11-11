@@ -9,3 +9,4 @@ scikit_learn
 WTForms
 gunicorn
 pandas
+requests
