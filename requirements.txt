@@ -8,3 +8,4 @@ flask_wtf
 scikit_learn
 WTForms
 gunicorn
+pandas
